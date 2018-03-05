@@ -27,5 +27,3 @@ class Solution:
             arr.append((s[i], i - 1))
 
         return len(arr)
-
-
